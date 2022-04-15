@@ -1,0 +1,9 @@
+#forestCanvas {
+    position: absolute;
+    background: #042940;
+    width: 100%;
+    height: 100%;
+    /*removes margins that some browsers have by default*/
+    top: 0; 
+    left: 0;
+}
